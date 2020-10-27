@@ -1,0 +1,20 @@
+{
+    "Author": "Sam Boutros",
+    "ContentSize": 5390,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/powershell-functiontool-to-setupdate-azure-acl-of-a-given-vm-endpoint/master/Set-AzACL.ps1",
+    "DownloadCount": 889,
+    "Id": "Powershell-functiontool-to-d87c1f94",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 569,
+    "RaterCount": 1,
+    "Rating": 5.0,
+    "ReleaseDate": "2014-12-19T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "One of the nice new features (2014) introduced is Access Control Lists for Azure VM Endpoints. I think of it as a virtual firewall for each Azure VM. This is a really nice feature because it can be managed and automated from Powershell. It's also scoped to a single VM which is",
+    "Title": "Powershell function/tool to set/update Azure ACL of a given VM Endpoint",
+    "UpdatedDate": "2014-12-19T00:00:00",
+    "Url": "https://github.com/azureautomation/powershell-functiontool-to-setupdate-azure-acl-of-a-given-vm-endpoint",
+    "UserTags": "Microsoft Azure, Powershell, ACL"
+}
